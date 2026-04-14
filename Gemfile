@@ -8,16 +8,17 @@ source "https://gems.ruby-china.com/"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-
+gem 'json', '~> 2.6.3', force_ruby_platform: true
 gem "github-pages", group: :jekyll_plugins
-
+gem 'webrick'
+gem 'eventmachine', '~> 1.2.7', platforms: [:mingw, :mswin]
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
-
+gem 'jekyll', '~> 3.9'
 # gem "jekyll"
-
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
+gem 'ffi', '~> 1.15.5'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
