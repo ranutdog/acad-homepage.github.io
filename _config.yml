@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Zhao Cong - homepage"
+description              : "赵聪老师的个人主页，展示了他的教育背景、专业经历、项目、新闻、发表论文、专利、荣誉奖项以及合作人员/团队等信息。"
+repository               : "ranutdog/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 webrick:
   pure_ruby: true
@@ -22,14 +22,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  name             : "赵聪"
+  avatar           : "images/profile.png"
+  bio              : "Tongji University
+                      STEP课题组"
+  location         : "Shanghai, China"
+  employer         : "Tongji University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : 
+  email            : "zhc@tongji.edu.cn" 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
