@@ -10,6 +10,10 @@ title                    : "Zhao Cong - homepage"
 description              : "Associate Professor, Department ofIntegrated Traffic Information and ControlEngineering
                             STEP课题组"
 repository               : "ranutdog/acad-homepage.github.io"
+# 新增/修改这两行（适配 GitHub Pages 子路径）
+url: "https://ranutdog.github.io"  # 你的 GitHub 用户名域名
+baseurl: "/acad-homepage.github.io" # 你的仓库名（子路径）
+
 google_scholar_stats_use_cdn : true
 webrick:
   pure_ruby: true
