@@ -10,17 +10,35 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio" style ="font-size: 13px;">{{ author.bio }}</p>{% endif %}
   </div>
 
-  <div class="author__urls-wrapper">
+  <div style="margin-top: 12px;" class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description }}</div></li>
+      {% endif %}
+      {% if site.description1 %}
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description1 }}</div></li>
+      {% endif %}
+      {% if site.description2 %}
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description2 }}</div></li>
+      {% endif %}
+      {% if site.description3 %}
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description3 }}</div></li>
+      {% endif %}
+      {% if site.description4 %}
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description4 }}</div></li>
+      {% endif %}
+      {% if site.description5 %}
+        <li><div style="white-space: normal; margin-bottom: 0;">{{ site.description5 }}</div></li>
+      {% endif %}
+      {% if author.interest %}
+        <div style='display: flex; margin-top: 8px;'><i class="fa fa-fw fa-graduation-cap" aria-hidden="true" style="margin-top: 4px;"></i><div style='width: 16px; flex-shrink:0;'></div>{{ author.interest }}</div>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <div style='display: flex; margin-top: 8px;'><i class="fa fa-fw fa-map-marker" aria-hidden="true" style="margin-top: 4px;"></i><div style='width: 16px; flex-shrink:0;'></div>{{ author.location }}</div>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
@@ -28,8 +46,11 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
+      {% if author.phone %}
+        <div style='display: flex; margin-top: 8px;'><i class="fa fa-fw fa-phone" aria-hidden="true" style="margin-top: 4px;"></i><div style='width: 16px; flex-shrink:0;'></div>{{ author.phone }}</div>
+      {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+        <div style='display: flex; margin-top: 8px;'><i class="fa fa-fw fa-envelope" aria-hidden="true" style="margin-top: 4px;"></i><div style='width: 16px; flex-shrink:0;'></div>{{ author.email }}</div>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>

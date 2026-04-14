@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "赵聪"
-  avatar           : "images/profile.png"
+  avatar           : "/images/profile.png"
   bio              : "Tongji University
                       STEP课题组"
   location         : "Shanghai, China"

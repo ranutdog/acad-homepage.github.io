@@ -1,4 +1,130 @@
-<script src="assets/js/main.min.js"></script>
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+
+<script src="{{ '/assets/js/collapse.js' | relative_url }}"></script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<a id="lang-switcher" class="lang-switch-btn" href="javascript:void(0);">
+    <i class="fas fa-globe" style="font-size: 1.2em;"></i>
+    
+    <div class="lang-text-container">
+        <span class="lang-label">Current:</span>
+        <span class="lang-status">Checking...</span>
+    </div>
+    
+    <i class="fas fa-exchange-alt switch-icon"></i>
+</a>
+
+<style>
+/* 按钮容器 */
+.lang-switch-btn {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #e1e4e8;
+    border-radius: 50px; /* 胶囊形状 */
+    padding: 8px 18px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    text-decoration: none !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-width: 140px; /* 保证宽度足够，文字不跳动 */
+}
+
+/* 文本区域 */
+.lang-text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    line-height: 1.1;
+}
+
+.lang-label {
+    font-size: 0.7em;
+    color: #888;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.lang-status {
+    font-size: 0.95em;
+    font-weight: bold;
+    color: #333;
+}
+
+/* 切换图标（稍微透明一点） */
+.switch-icon {
+    font-size: 0.9em;
+    color: #aaa;
+    margin-left: auto; /* 推到最右边 */
+    transition: transform 0.3s;
+}
+
+/* 悬停效果 */
+.lang-switch-btn:hover {
+    background-color: #f0f7ff; /* 浅蓝色背景 */
+    border-color: #007bff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0,123,255,0.2);
+}
+
+.lang-switch-btn:hover .lang-status {
+    color: #007bff;
+}
+
+.lang-switch-btn:hover .switch-icon {
+    color: #007bff;
+    transform: rotate(180deg); /* 箭头旋转动画 */
+}
+
+/* 手机适配 */
+@media (max-width: 768px) {
+    .lang-switch-btn {
+        top: 15px;
+        right: 60px; /* 给菜单按钮留位置 */
+        padding: 6px 12px;
+        min-width: auto;
+        gap: 6px;
+    }
+    .lang-label { display: none; } /* 手机上隐藏 "Current" 小字，省空间 */
+    .lang-status { font-size: 0.85em; }
+}
+</style>
+
+<script>
+(function() {
+    var btn = document.getElementById('lang-switcher');
+    var statusText = btn.querySelector('.lang-status');
+    var labelText = btn.querySelector('.lang-label');
+    var currentPath = window.location.pathname;
+
+    btn.setAttribute('target', '_self');
+
+    // 检测逻辑
+    if (currentPath.indexOf('/cn/') > -1) {
+        // === 当前是中文版 ===
+        labelText.innerText = "当前语言";
+        statusText.innerText = "中文";
+        
+        // 直接设置目标链接为英文版首页
+        btn.href = "{{ '/' | relative_url }}";
+        btn.title = "点击切换到英文版 (Switch to English)";
+        
+    } else {
+        // === 当前是英文版 ===
+        labelText.innerText = "Language";
+        statusText.innerText = "English";
+        
+        // 直接设置目标链接为中文版首页
+        btn.href = "{{ '/cn/' | relative_url }}";
+        btn.title = "Click to switch to Chinese (切换到中文版)";
+    }
+})();
+</script>

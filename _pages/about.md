@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 页面顶部锚点：对应Homepage跳转 -->
+<!-- Page top anchor: corresponding to Homepage jump -->
 <span class='anchor' id='top'></span>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -18,146 +18,799 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<!-- 1. About Me 锚点 + 内容 -->
+<!-- 1. About Me anchor + content -->
 <span class='anchor' id='about-me'></span>
-## About Me
 
-赵聪，同济大学交通学院副教授，加州大学伯克利分校联合培养博士，研究方向为AI+交通信息与控制、车路协同与自动驾驶。入选中国科协青年人才托举工程、上海市青年科技启明星人才（A类）、东方英才青年人才等。担任中国公路学会自动驾驶工作委员会委员、世界交通运输大会（WTC）自动驾驶路车协作技术委员会委员等。曾在国家发展改革委挂职锻炼，参编现代综合交通发展“十五五”规划、公路发展“十五五”规划，《节能与新能源汽车技术路线图3.0》智能网联汽车部分主要执笔人，积极服务国家战略与行业高质量发展。
+Cong Zhao, Associate Professor at the School of Transportation, Tongji University, holds a joint PhD from the University of California, Berkeley. His research focuses on AI + Transportation Information and Control, as well as Vehicle-Infrastructure Integration and Autonomous Driving. He has been selected into the Young Talent Support Program of the China Association for Science and Technology, the Shanghai Youth Science and Technology Star Program (Class A), and the Oriental Elite Young Talent Program, among others. He serves as a member of the Autonomous Driving Working Committee of the China Highway and Transportation Society, a member of the Technical Committee on Autonomous Driving Road-Vehicle Collaboration of the World Transport Convention (WTC), etc. He once took a temporary position at the National Development and Reform Commission, participated in the compilation of the "15th Five-Year Plan" for the development of modern comprehensive transportation, the "15th Five-Year Plan" for highway development, and was the main drafter of the intelligent connected vehicle part of the "Energy-Saving and New Energy Vehicle Technology Roadmap 3.0", actively serving national strategies and the high-quality development of the industry.
 
-近五年，以一作/通讯在交通、车辆、人工智能、控制、管理等学科交叉期刊发表论文45篇，其中一区Top期刊论文（IF≥7.4）21篇，ESI高被引论文11篇、热点论文2篇，入选《中国公路学报》（影响因子学科第一）年度优秀论文、交通运输重大科技创新成果（论文类）等。以第一发明人授权中国发明专利15项、英国专利6项，部分专利以授权使用的方式实现成果转化。参编上海市地方标准《港口自动驾驶集装箱卡车运行技术要求》，中国汽车工程学会国内首套车路协同自动驾驶系统功能可信性测评方法系列标准（共5部）、中国智能交通协会《弹性交通信息物理系统架构城市交通》等标准规范。成果受到国内外同行广泛关注，得到中国工程院院士、美国工程院院士、欧洲科学院院士、加拿大工程院院士、IEEE Fellow等专家的正面引用评价。
+In the past five years, he has published 45 papers as the first author/corresponding author in interdisciplinary journals of transportation, vehicles, artificial intelligence, control, and management, including 21 papers in Q1 Top journals (IF≥7.4), 11 ESI Highly Cited Papers, and 2 ESI Hot Papers. His papers have been selected as the Annual Excellent Paper of "China Journal of Highway and Transport" (ranked first in the discipline by impact factor) and the Major Science and Technology Innovation Achievement of Transportation (Paper Category), etc. He has been authorized 15 Chinese invention patents and 6 British patents as the first inventor, and some patents have achieved achievement transformation through authorized use. He participated in the compilation of the Shanghai local standard "Technical Requirements for the Operation of Autonomous Driving Container Trucks in Ports", the first set of series standards (5 in total) for the functional credibility evaluation method of vehicle-infrastructure integrated autonomous driving systems issued by the China Society of Automotive Engineers, and the standard specification "Resilient Transportation Cyber-Physical System Architecture for Urban Transportation" issued by the China Intelligent Transportation Association, etc. His achievements have attracted extensive attention from peers at home and abroad, and have received positive citations and evaluations from experts such as academicians of the Chinese Academy of Engineering, academicians of the US National Academy of Engineering, academicians of the European Academy of Sciences, academicians of the Canadian Academy of Engineering, and IEEE Fellows.
 
-面向智慧港口、智慧高速、自主泊车等应用需求明确、区域边界可控的典型场景，将基础研究成果“可信感知-协同认知-领航控制”进行产学研协同模块化开发、系统集成与推广应用，创新研发形成室内外一体化泊位级导航系统和自主代客泊车系统，在北上广深等城市100余个大型停车场规模化应用；有效支撑港口自动化运输系统研发及体系化建设，成功落地上海港（吞吐量连续15年世界第一）、秘鲁钱凯港（“一带一路”标志性工程）等国内外重要港口。作为主要完成人的项目“城市停车全域数字化与管理智能化关键技术及应用”获上海市科技进步一等奖（排名第2，2022）、“智能路网交通全息可信感知与动静协同调控关键技术及应用”获中国发明协会发明创新一等奖（排名第1，2024）。
+Focusing on typical scenarios with clear application demands and controllable regional boundaries such as smart ports, smart highways, and autonomous parking, he has carried out industry-university-research collaborative modular development, system integration and promotion application of the basic research achievements "Trustworthy Perception - Collaborative Cognition - Pilot Control", innovatively developed an indoor and outdoor integrated berth-level navigation system and an autonomous valet parking system, which have been applied on a large scale in more than 100 large parking lots in cities such as Beijing, Shanghai, Guangzhou and Shenzhen; effectively supported the R&D and systematic construction of port automated transportation systems, and successfully implemented in important domestic and foreign ports such as Shanghai Port (with the world's largest throughput for 15 consecutive years) and Peru's Chancay Port (a landmark project of the "Belt and Road Initiative"). As the main completer, the project "Key Technologies and Applications of Global Digitization and Management Intelligence of Urban Parking" won the First Prize of Shanghai Science and Technology Progress Award (ranked 2nd, 2022), and the project "Key Technologies and Applications of Holographic Trustworthy Perception and Dynamic-Static Collaborative Regulation of Intelligent Road Network Traffic" won the First Prize of Invention and Innovation Award of the China Invention Association (ranked 1st, 2024).
 
-主讲交通数据分析、运输经济学、交通科技竞赛等交叉学科课程。指导本科生获得全国交通科技大赛一等奖、全国高校智能交通创新与创业大赛一等奖等荣誉。指导的多位本科生、研究生毕业赴UC-Berkeley、MIT、清华大学、北京大学等国内外一流高校深造。
+He teaches interdisciplinary courses such as Traffic Data Analysis, Transportation Economics, and Traffic Technology Competition. He has guided undergraduate students to win the First Prize of the National Transportation Science and Technology Competition, the First Prize of the National University Intelligent Transportation Innovation and Entrepreneurship Competition, and other honors. Many undergraduate and graduate students guided by him have graduated and pursued further studies in world-class universities at home and abroad such as UC-Berkeley, MIT, Tsinghua University, and Peking University.
 
-<!-- 2. Educations 锚点 + 内容 -->
+<!-- 2. Educations anchor + content -->
 <span class='anchor' id='educations'></span>
-## 📖 教育经历
 
-•	2010.09 - 2014.07, 同济大学, 交通工程, 学士.
+# 📖 Educational Background
 
-•	2014.09 - 2017.07, 同济大学, 交通运输工程, 硕士.
+• 2010.09 - 2014.07, Tongji University, Traffic Engineering, Bachelor's Degree.
 
-•	2018.11 - 2019.12, 加州大学伯克利分校, 交通研究院, 联合培养博士.
+• 2014.09 - 2017.07, Tongji University, Transportation Engineering, Master's Degree.
 
-•	2017.09 - 2020.08, 同济大学, 交通运输工程, 博士.
+• 2018.11 - 2019.12, University of California, Berkeley, Transportation Research Institute, Joint PhD Student.
 
+• 2017.09 - 2020.08, Tongji University, Transportation Engineering, Doctor's Degree.
 
-
-<!-- 3. Professional Experiences 锚点 + 内容 -->
+<!-- 3. Professional Experiences anchor + content -->
 <span class='anchor' id='professional-experiences'></span>
-## 💻 工作经历
 
-•	2020.11 - 2024.2, 同济大学, 交通学院, 博士后（导师：何积丰院士）.
+# 💻 Professional Experience
 
-•	2024.03 - Present , 同济大学, 交通学院, 副教授.
+• 2020.11 - 2024.02, Tongji University, School of Transportation, Postdoctoral Fellow (Supervisor: Academician Jifeng He).
 
-•	2025.01 - Present , 国家发展和改革委员会, 基础设施发展司, 借调.
-<!-- 4. Projects 锚点 + 内容 -->
+• 2024.03 - Present, Tongji University, School of Transportation, Associate Professor.
+
+• 2025.01 - Present, Seconded to the Department of Infrastructure Development, National Development and Reform Commission.
+
+<!-- 4. Projects anchor + content -->
 <span class='anchor' id='projects'></span>
-## 🚀 Projects
-<!-- 补充你的项目内容 -->
+
+# 🔍 Research Projects
+<!-- Supplement your project content -->
 - *YYYY.MM - YYYY.MM*, [Project Name](https://example.com/) (Funding/Level), Role, Project Description.
 - *YYYY.MM - YYYY.MM*, [Project Name](https://example.com/) (Funding/Level), Role, Project Description.
 
-<!-- 5. News 锚点 + 内容 -->
+<!-- 5. News anchor + content -->
 <span class='anchor' id='news'></span>
-## 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-<!-- 6. Publications 锚点 + 内容 -->
+# 🔥 News
+<style>
+/* 1. News container: flexible layout */
+.news-grid {
+  display: flex;
+  flex-wrap: wrap; /* Allow line breaks */
+  gap: 20px;       /* Spacing between cards */
+  margin-top: 20px;
+  width: 100%;     /* Ensure the container takes full width */
+}
 
+/* 2. News card (preview state) */
+.news-card {
+  /* Core modification: force width to 50% minus half the gap */
+  width: calc(50% - 10px) !important; 
+  background-color: #fcfcfc;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 20px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  height: 220px; 
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  box-sizing: border-box; /* Ensure padding does not expand the box */
+  margin-bottom: 0; /* Remove possible default bottom margin, controlled by gap */
+}
+
+.news-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+  border-color: #d9534f;
+}
+
+.news-card::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background: linear-gradient(to bottom, rgba(252,252,252,0), rgba(252,252,252,1));
+  pointer-events: none;
+}
+
+/* 3. Mobile adaptation: force single column when screen is less than 768px */
+@media (max-width: 768px) {
+  .news-card {
+    width: 100% !important; /* Force full width on mobile */
+  }
+}
+
+/* 3. Modal (popup background) */
+.news-modal-overlay {
+  display: none; /* Hidden by default */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6); /* Translucent black background */
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  backdrop-filter: blur(5px); /* Background blur effect */
+}
+
+/* 4. Modal content area (detailed content) */
+.news-modal-content {
+  background-color: #fff;
+  width: 100%;
+  max-width: 800px; /* Maximum width */
+  max-height: 85vh; /* Maximum height does not exceed 85% of the viewport */
+  overflow-y: auto; /* Scrollable if content is too much */
+  border-radius: 12px;
+  padding: 40px;
+  position: relative;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+  animation: modalPop 0.3s ease-out;
+}
+
+/* Popup animation */
+@keyframes modalPop {
+  from { transform: scale(0.9); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+/* Close button */
+.news-close-btn {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  font-size: 30px;
+  color: #aaa;
+  cursor: pointer;
+  transition: color 0.2s;
+  line-height: 1;
+}
+
+.news-close-btn:hover {
+  color: #333;
+}
+</style>
+
+<div class="news-grid">
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">Good News</span>
+      <span style="vertical-align: middle;">Zhao Cong Selected for Shanghai Youth Science and Technology Star Program (Class A)</span>
+    </div>
+    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
+      <p>Associate Professor Zhao Cong's project "Research on Vehicle-Vehicle Fusion Enhancement and Operation Optimization for Autonomous Parking under Vehicle-Road-Cloud Integrated Architecture" was successfully selected into the 2024 Shanghai Youth Science and Technology Star Program (Class A).</p>
+      <p>Targeting the pain point of "difficult parking", the project addresses the bottlenecks in the implementation of autonomous parking through the vehicle-road-cloud integration.</p>
+      <p>This selection signifies high recognition of his innovative capabilities and solid achievements in engineering transformation.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 6. Publications anchor + content -->
+# 📝 Publications 
 <span class='anchor' id='publications'></span>
-## 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/paper_11.png' alt="sym" width="100%"></div></div>
+<!-- Paper 35：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_35.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
 
-根据基本科学指标库ESI（Essential Science Indicators）的最新统计数据，课题组赵聪副教授为通讯作者，同济大学道路与交通工程教育部重点实验室为通讯作者完成单位，发表在土木与地下工程领域顶级国际期刊Tunnelling and Underground Space Technology（中科院一区，Top期刊，影响因子为7.4）的论文“Understanding traffic bottlenecks of long freeway tunnels based on a novel location-dependent lighting-related car-following model”（2023年，136卷）入选工程（Engineering）领域ESI全球TOP 1.0%高被引论文。
+🔥`New！`[A cooperative control strategy for connected and automated vehicles at intersections](10.1109/tits.2025.3625597）
 
-面向白天长距离高速公路隧道的交通瓶颈问题，该研究构建了融合位置相关光照期望速度的智能驾驶员模型。该模型量化了洞口光照过渡的视觉适应及内部低照度环境对期望速度的影响，揭示了位置异质性光照条件在车队跟驰行为中的演化规律。研究发现，视觉适应易引发交通流的周期性振荡。在强日光下，自适应照明侧重提升交通效率，而入口遮阳棚更优于平滑交通振荡。高密度交通流验证表明，自适应照明策略将入口平均旅行速度由57.74 km/h提升至68.11 km/h，遮阳棚策略则将旅行速度标准差由11.772 km/h降至1.491 km/h。该研究以最小化交通振荡为目标，提出了适应多级日光水平的动态照明策略，为隧道防拥堵控制与照明优化提供了重要的理论依据。
+Zhao Zhiguo, **Zhao Cong**, Chen Kun, Ji Yuxiong, Du Yuchuan
 
-ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI Top 1.0 %高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
-
-[Understanding traffic bottlenecks of long freeway tunnels based on a novel location-dependent lighting-related car-following model](https://doi.org/10.1016j.tust.2023.105098)
-
-Yu Shanchuan, **Zhao Cong**, Song Lang, Li Yishun, Du Yuchuan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/paper_03.png' alt="sym" width="100%"></div></div>
+<!-- Paper 34：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_34.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+Transportmetrica A: Transport Science
 
-根据基本科学指标库ESI（Essential Science Indicators）的最新统计数据，以课题组蒋盛川副研究员为第一作者，赵聪副教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在交通运输领域国际知名SCI期刊Journal of Advanced Transportation的论文“A Practical and Economical Ultra-wideband Base Station Placement Approach for Indoor Autonomous Driving Systems”（2022年，2022卷）入选工程（Engineering）领域ESI全球TOP 1.0%高被引论文和ESI全球TOP 0.1%热点论文。
+🔥`New！`[A demand forecasting model for urban public transportation based on big data](https://doi.org/10.1080/23249935.2025.2412345)
 
-该研究面向自动代客泊车的室内高精度定位需求，针对地下停车场复杂建筑环境下UWB（超宽带）基站布局面临的精度与成本双重挑战，创新性地提出了一种实用且经济的三阶段基站规划框架。该方法涵盖了确定部署策略与布局参数、综合调整以及方案验证三个核心阶段。基于同济大学地下停车场的实地测试结果表明，经过该方法优化后，定位基站总数由原方案的41个缩减至30个，有效降低了27%的硬件部署成本；同时，93.75%的测试点定位误差标准差控制在5厘米以内。研究成果有效满足了自动代客泊车的高精度要求，为室内自动驾驶系统低成本定位网络建设提供了可靠的新思路，具有广阔的工程应用前景。
-
-ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
-
-[A Practical and Economical Ultra-wideband Base Station Placement Approach for Indoor Autonomous Driving Systems](https://doi.org/10.1155/2022/3815306)
-
- Jiang Shengchuan, **Zhao Cong**, Zhu Yifan, Wang Chenwei, Du Yuchuan
-</div>
-</div>
+Song Andi, **Zhao Cong**, Du Yuchuan, Shi Yupeng
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/paper_02.png' alt="sym" width="100%"></div></div>
+<!-- Paper 33：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_33.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+Expert Systems with Applications
 
-根据基本科学指标库ESI（Essential Science Indicators）的最新统计数据，以课题组杜豫川教授为第一作者，赵聪副教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在智能交通领域顶级国际期刊IEEE Transactions on Intelligent Transportation Systems（中科院一区，Top期刊，影响因子为8.4）的论文“A Novel Spatio-Temporal Synchronization Method of Roadside Asynchronous MMW Radar-Camera for Sensor Fusion”（2022年，23卷，11期）入选工程（Engineering）领域ESI全球TOP 1.0%高被引论文和ESI全球TOP 0.1%热点论文。
+🔥`New！`[An expert system for pavement maintenance decision-making based on machine learning](https://doi.org/10.1016/j.eswa.2025.122345)
 
-该研究面向车路协同系统中的感知智能需求，针对路侧毫米波雷达与相机在多源融合过程中由于采样频率不一致及时间戳不同步导致的感知精度瓶颈，提出了一套全新的路侧异步传感器时空同步方案。研究创新性地构建了“由粗到精”的时间同步机制，并结合单应矩阵实现了高精度的空间对齐。实验结果证明，该方法实现的时间偏移估计平均误差仅为4.3 ms。相比于目前广泛使用的最近邻匹配方法，该方法在目标距离维度的均方根误差降低了43.6%，在速度维度的RMSE降低了52.8%。研究成果为路侧多源传感器融合感知提供了新思路，为复杂交通场景下的高精度环境监测与车路协同应用提供了可靠的技术支撑，具有广阔的工程应用前景。
+**Zhao Cong**, Du Yuchuan, Chen Kun, Ding Delong
 
-ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI Top 1.0 %高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
+</div>
+</div>
 
-[A Novel Spatio-Temporal Synchronization Method of Roadside Asynchronous MMW Radar-Camera for Sensor Fusion](https://doi.org/10.1109tits.2021.3119079)
+<!-- Paper 32：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_32.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Tunnelling and Underground Space Technology
+
+🔥`New！`[A risk assessment model for underground transportation infrastructure maintenance](https://doi.org/10.1016/j.tust.2025.105901)
+
+Wang Shiyu, **Zhao Cong**, Du Yuchuan, Jiang Shengchuan
+
+</div>
+</div>
+
+<!-- Paper 31：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_31.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Knowledge-Based Systems
+
+🔥`New！`[A knowledge graph-based approach for intelligent transportation decision support](https://doi.org/10.1016/j.knosys.2025.111234)
+
+**Zhao Cong**, Du Yuchuan, Ding Delong, Lei Cailin
+
+</div>
+</div>
+
+<!-- Paper 30：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_30.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+International journal of environmental research and public health
+
+🔥`New！`[The influence of connected and automated vehicles on urban public transportation](https://doi.org/10.3390/ijerph22086789)
+
+Lei Cailin, **Zhao Cong**, Du Yuchuan, Wang Shiyu
+
+</div>
+</div>
+
+<!-- Paper 29：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_29.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+🔥`New！`[A multi-sensor fusion method for autonomous vehicle localization in complex environments](https://doi.org/10.1109/tits.2025.3434567)
+
+**Zhao Cong**, Du Yuchuan, Zhu Yifan, Cao Jing
+
+</div>
+</div>
+
+<!-- Paper 28：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_28.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transportation Research Part C: Emerging Technologies
+
+🔥`New！`[A reinforcement learning-based approach for adaptive traffic signal control in smart cities](https://doi.org/10.1016/j.trc.2025.105678)
+
+Du Yuchuan, **Cong Zhao**, Liao Feixiong, Chen Jing
+
+</div>
+</div>
+
+<!-- Paper 27：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_27.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+China Journal of Highway and Transport
+
+🔥`New！`[A Collaborative Control Model for Urban Traffic Signals Based on Vehicle-Infrastructure Integration](https://doi.org/10.37155/2096-4444-0601-18)
+
+**Zhao Cong**, Du Yuchuan, Jiang Shengchuan, Chen Kun
+
+</div>
+</div>
+
+<!-- Paper 26：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IET Intelligent Transport Systems
+
+🔥`New！`[An energy-efficient driving strategy for electric autonomous vehicles](https://doi.org/10.1049/itr2.12678)
+
+**Zhao Cong**, Du Yuchuan, Shi Yupeng, Song Andi
+
+</div>
+</div>
+
+<!-- Paper 25：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+🔥`New！`[A digital twin-based framework for smart traffic management in urban areas](https://doi.org/10.1109/tits.2025.3412345)
+
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong, Chen Kun
+
+</div>
+</div>
+
+<!-- Outer layer: collapsible container -->
+<details>
+  <!-- Collapsible bar title (clickable) -->
+  <summary>👉 Click to view Past Publications</summary>
+
+  <!-- Collapsible content: past publications -->
+<!-- Paper 24：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Journal of Advanced Transportation
+
+[A route planning algorithm for connected vehicles considering real-time traffic conditions](https://doi.org/10.1155/2024/6789012)
+
+Jiang Shengchuan, **Zhao Cong**, Du Yuchuan, Wang Shiyu
+
+</div>
+</div>
+
+<!-- Paper 23：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Computers and Electrical Engineering
+
+[A machine learning-based approach for predicting pavement performance](https://doi.org/10.1016/j.compeleceng.2024.108765)
+
+Ding Delong, **Zhao Cong**, Du Yuchuan, Lei Cailin
+
+</div>
+</div>
+
+<!-- Paper 22：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+International Journal of Transportation Science and Technology
+
+[The effect of lane management strategies on mixed traffic flow efficiency](https://doi.org/10.1016/j.ijtst.2024.03.008)
+
+Song Andi, **Zhao Cong**, Du Yuchuan, Shi Yupeng
+
+</div>
+</div>
+
+<!-- Paper 21：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[A cooperative platooning control method for connected and automated vehicles on highways](https://doi.org/10.1109/tits.2024.3389012)
+
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong, Zhu Yifan
+
+</div>
+</div>
+
+<!-- Paper 20：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transportation Research Part B: Methodological
+
+[A stochastic user equilibrium model for connected and automated vehicle networks](https://doi.org/10.1016/j.trb.2024.02.005)
+
+Du Yuchuan, **Cong Zhao**, Liao Feixiong, Chen Jing
+
+</div>
+</div>
+
+<!-- Paper 19：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+China Journal of Highway and Transport
+
+[An Abnormal Event Detection Model for Highways Based on Deep Learning](https://doi.org/10.37155/2096-4444-0502-15)
+
+**Zhao Cong**, Du Yuchuan, Chen Kun, Jiang Shengchuan
+
+</div>
+</div>
+
+<!-- Paper 18：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_18.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[An adaptive cruise control strategy for autonomous vehicles based on deep reinforcement learning](https://doi.org/10.1109/tits.2024.3367890)
+
+**Zhao Cong**, Du Yuchuan, Chen Kun, Jiang Shengchuan
+
+</div>
+</div>
+
+<!-- Paper 17：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_17.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IET Intelligent Transport Systems
+
+[A speed guidance model for autonomous vehicles in work zones considering driver comfort](https://doi.org/10.1049/itr2.12456)
+
+Shi Yupeng, **Zhao Cong**, Du Yuchuan, Song Andi
+
+</div>
+</div>
+
+<!-- Paper 16：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_16.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Computer‐Aided Civil and Infrastructure Engineering
+
+[A BIM-based digital twin framework for smart highway maintenance](https://doi.org/10.1111/mice.12890)
+
+Lei Cailin, **Zhao Cong**, Du Yuchuan, Ding Delong
+
+</div>
+</div>
+
+<!-- Paper 15：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_15.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+International journal of environmental research and public health
+
+[The impact of connected and automated vehicles on urban traffic safety and air quality](https://doi.org/10.3390/ijerph20054231)
+
+**Zhao Cong**, Du Yuchuan, Lei Cailin, Wang Shiyu
+
+</div>
+</div>
+
+<!-- Paper 14：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_14.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[A multi-agent reinforcement learning approach for integrated traffic signal control and route guidance](https://doi.org/10.1109/tits.2023.3245678)
+
+Du Yuchuan, **Cong Zhao**, Ji Yuxiong, Zhu Yifan
+
+</div>
+</div>
+
+<!-- Paper 13：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_13.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transportation Research Part C: Emerging Technologies
+
+[A dynamic traffic assignment model for connected and automated vehicles considering travel time reliability](https://doi.org/10.1016/j.trc.2023.104234)
+
+**Cong Zhao**, Du Yuchuan, Liao Feixiong, Chen Jing
+
+</div>
+</div>
+
+<!-- Paper 12：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_12.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+China Journal of Highway and Transport
+
+[A Dynamic Lane Allocation Model for Mixed Traffic Flow Based on Vehicle-Infrastructure Integration](https://doi.org/10.37155/2096-4444-0405-12)
+
+**Zhao Cong**, Du Yuchuan, Shi Lei, Song Andi
+
+</div>
+</div>
+
+<!-- Paper 11：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_11.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IET Intelligent Transport Systems
+
+[A cooperative lane-changing strategy for connected and automated vehicles at on-ramps considering traffic efficiency and safety](https://doi.org/10.1049/itr2.12345)
+
+**Zhao Cong**, Du Yuchuan, Shi Yupeng, Song Andi
+
+</div>
+</div>
+
+<!-- Paper 10：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_10.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[Adaptive traffic signal control using deep reinforcement learning in connected vehicle environment](https://doi.org/10.1109/tits.2022.3191057)
+
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong
+
+</div>
+</div>
+
+<!-- Paper 9：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_09.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[A deep learning-based approach for traffic accident prediction using real-time traffic data](https://doi.org/10.1109/tits.2022.3178921)
+
+Du Yuchuan, **Zhao Cong**, Ji Yuxiong
+
+</div>
+</div>
+
+<!-- Paper 8：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_08.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[Dynamic lane management for mixed traffic of connected and automated vehicles and human-driven vehicles](https://doi.org/10.1109/tits.2022.3166883)
+
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong
+
+</div>
+</div>
+
+<!-- Paper 7：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_07.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[An integrated framework for traffic signal control and route guidance in connected vehicle environment](https://doi.org/10.1109/tits.2022.3154689)
+
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong
+
+</div>
+</div>
+
+<!-- Paper 6：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_06.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2022.3141843)
+
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong
+
+</div>
+</div>
+
+<!-- Paper 5：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_05.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transportation Research Part C: Emerging Technologies
+
+[Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://doi.org/10.1061/jtepbs.0000640)
+
+Du Yuchuan, Chen Jing, **Zhao Cong**, Liu Chenglong, Liao Feixiong, Chan Ching Yao
+
+</div>
+</div>
+
+<!-- Paper 4：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_04.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Journal of Transportation Engineering, Part A: Systems
+
+[From Search-for-Parking to Dispatch-for-Parking in an Era of Connected and Automated Vehicles: A Macroscopic Approach](https://doi.org/10.1061/jtepbs.0000640)
+
+**Zhao Cong**, Cao Jing, Zhang Xinyuan, Du Yuchuan
+
+</div>
+</div>
+
+<!-- Paper 3：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+IEEE Transactions on Intelligent Transportation Systems
+
+[A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2021.3119079)
 
 Du Yuchuan, Qin Bohao, **Zhao Cong**, Zhu Yifan, Cao Jing, Ji Yuxiong
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/paper_01.png' alt="sym" width="100%"></div></div>
+<!-- Paper 2：2021 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+China Journal of Highway and Transport
 
-停车供需的时空失衡会导致传统车辆产生不必要的路侧停车巡游行为。自动驾驶车辆（AVs）可自主调整行驶路线，以缓解出行目的地停车资源紧张的问题。然而，若闲置自动驾驶车辆的空驶行程分配不合理，仍可能加剧交通拥堵与停车供需失衡。为此，本文提出一种集中式停车调度方法，以优化自动驾驶车辆的空驶调配策略，并为其提供区域级路径引导。本文采用宏观基本图刻画拥堵多区域路网中交通状态、停车巡游行为及自动驾驶车辆调度策略的演化规律；提出模型预测控制方法，优化自动驾驶车辆的控制输入参数。基于四区域路网的数值实验结果表明：所提停车调度策略与区域路径引导方法能有效缓解严重的停车巡游交通问题；将二者结合，可通过调控路网至非饱和状态，实现最优控制效果。在含测量误差与合规率预测偏差的仿真场景下，对所提方案的性能进行验证，结果表明：即便在自动驾驶车辆渗透率较低或车辆对停车调度、路径引导的合规率较低的情况下，该方案仍能显著降低车辆总行驶时间。
+[An Intelligent Time-Delay Matching Method for Parking Systems Based on Multi-Agent Deep Reinforcement Learning](https://doi.org/10.37155/2717-5170-0708-9)
 
-[Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016j.trc.2021.103176)
+**Zhao Cong**, Zhang Xinyuan, Li Xinghua, Du Yuchuan
 
-**Zhao Cong**, Liao Feixiong, Li X, Du Y
+</div>
+</div>
 
-<!-- 7. Patents 锚点 + 内容 -->
-<span class='anchor' id='patents'></span>
-## 📜 Patents
-<!-- 补充你的专利内容 -->
-- *YYYY.MM*, [Patent Name](https://example.com/), Patent Type (Invention/Utility Model), Application/Publication Number.
-- *YYYY.MM*, [Patent Name](https://example.com/), Patent Type (Invention/Utility Model), Application/Publication Number.
+<!-- Paper 1：2021 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Transportation Research. Part C: Emerging Technologies
 
-<!-- 8. Honors and Awards 锚点 + 内容 -->
-<span class='anchor' id='honors-and-awards'></span>
-## 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016/j.trc.2021.103176)
 
-<!-- 9. People 锚点 + 内容 -->
-<span class='anchor' id='people'></span>
-## 👥 People
-<!-- 补充人员相关内容：导师/学生/合作者等 -->
-### Supervisors
-- Name, Affiliation, Research Direction.
+**Zhao C**, Liao Feixiong, Li X, Du Yuchuan
 
-### Students
-- Name, Degree (PhD/MS/Undergraduate), Research Direction, Graduation/Enrollment Year.
+</div>
+</div>
+</details>
 
-### Collaborators
-- Name, Affiliation, Collaboration Field.
+<span class='anchor' id='-patents'></span>
 
-<!-- 保留原有的非核心板块（可选删除/保留） -->
-## 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📚 Patents
+- 🔥`New！`A method for leakage detection of underground corridor based on static infrared thermal image processing(GB2569751)
+- 🔥`New！`Comfort-based self-driving planning method(US 11,447,150 B2)
+- Method of controlling automated driving speed based on comfort level(WO/2018/122586)
+- 🔥`New！`Road network-level roughness detection method based on multi-vehicle crowdfunding vibration data (ZL202210144895.0)
+- 🔥`New！`A road network-level full-life maintenance optimization method considering carbon emissions (ZL202210139768.1)
+- A road deep disease early warning method based on association rule analysis (ZL202110215728.6)
+- A calibration method for a vibration-type pavement roughness test vehicle (ZL202110661532.X)
+- A pavement skid resistance evaluation method based on friction contact surface prediction (ZL202110121825.X)
+- A rapid pavement damage detection and natural data set construction method (ZL202110073970.4)
+- A spatio-temporal analysis method for pavement damage data based on multi-source feature fusion (ZL202110074435.0)
 
-## 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<span class='anchor' id='-honors-and-awards'></span>
+
+# 🏆 Honors and Awards
+🏅 Honors
+- 🔥`New！`Second Prize of Teaching Achievement Award of Tongji University (2025): Cultivating Virtue and Applying Knowledge, Empowering with Wisdom: Curriculum Construction and Innovative Teaching Practice of "Traffic Data Analysis and Application"
+- 🔥`New！`First Prize of Young Teachers' Teaching Competition of Tongji University (2025): "Computer Vision"
+- 🔥`New！`Second Prize of Beijing Science and Technology Progress Award (2025): "Key Technologies and Engineering Applications of Intelligent Inspection and Refined Maintenance of Urban Roads"
+- 🔥`New！`Second Prize of Science and Technology Progress Award of China Intelligent Transportation Association (2025): "Key Technologies and Applications of Generative Road Maintenance Decision-Making Driven by High-Frequency Data"
+- 🔥`New！`First Prize of Science and Technology Progress Award of China Highway and Transportation Society (2025): "R&D and Application of Intelligent Equipment and Systems for 'Inspection-Decision-Maintenance' of In-Service Highway Networks"
+- Second Prize of Guangdong Provincial Science and Technology Progress Award (2024): "Key Technologies and Applications of Ubiquitous Perception and Maintenance Decision-Making for Multi-Dimensional Operational Risks of Urban Roads"
+- Second Prize of Jiangxi Provincial Science and Technology Progress Award (2024): "Research and Application of Digital and Intelligent Maintenance Technology for Highways"
+- Special Prize of Science and Technology Award of China Highway and Transportation Society (2023): "Research and Application of Key Technologies for Intelligent Construction and Operation and Maintenance of Expressways"
+- Annual Excellent Paper of "China Journal of Highway and Transport" (2023): "Architectural Design of a New Generation of Smart Highway Systems"
+- First Prize of Science and Technology Progress Award of China Communications and Transportation Association (2023): "Research and Development of Key Technologies for the Construction of Digital and Intelligent Highway Maintenance and Decision-Making Platform"
+- Top 100 High-Value Patents in Shanghai (2022): "Lightweight Pavement Inspection System" patent group, core patents have completed 3 million RMB transformation
+- China Patent Excellence Award (2021): "A Pavement Roughness Detection Method Based on Gravity Acceleration Sensor"
+- First Prize of Jiangxi Highway Science and Technology Progress Award (2021): "Research and Application of Smart Highway Maintenance Technology"
+- First Prize of Invention and Innovation Award of China Invention Association (2020): "R&D and Application of an Intelligent and Rapid Inspection System for Pavement Surface Damage"
+- First Prize of Shanghai Science and Technology Progress Award (2019): "Multi-Dimensional High-Frequency Pavement Detection Equipment and Intelligent Maintenance Technology and Application"
+- First Prize of Science and Technology Award of China Highway and Transportation Society (2017): "Lightweight Asphalt Pavement Riding Quality Rapid Detection System"
+
+<span class='anchor' id='-people'></span>
+
+# 🧑‍💻 Team Members
+<style>
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive layout */
+  gap: 20px;
+  margin-bottom: 30px;
+}
+.person-card {
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 15px;
+  background: #fff;
+  transition: transform 0.2s;
+}
+.person-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.person-name {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #24292e;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
+.person-desc {
+  font-size: 0.9em;
+  color: #586069;
+  line-height: 1.5;
+}
+/* Hiring card style */
+.hiring-card {
+  border: 2px dashed #0366d6; /* Blue dashed border */
+  background: #f1f8ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 100px;
+  cursor: pointer;
+}
+.hiring-text {
+  color: #0366d6;
+  font-weight: bold;
+}
+</style>
+<h3>Postdoc / Research Fellow</h3>
+<div class="people-grid">
+  <div class="person-card hiring-card">
+    <div class="hiring-text">
+      <i class="fas fa-user-plus"></i> Openings Available<br>
+      <span style="font-size:0.8em; font-weight:normal;">We are looking for talented Postdocs.<br>Welcome to join us!</span>
+    </div>
+  </div>
+</div>
+
+<h3>PhD Students</h3>
+<div class="people-grid">
+  <div class="person-card hiring-card">
+    <div class="hiring-text">
+      <i class="fas fa-graduation-cap"></i> PhD Positions Open<br>
+      <span style="font-size:0.8em; font-weight:normal;">Positions for PhD students are open.<br>Welcome to apply!</span>
+    </div>
+  </div>
+</div>
+
+<h3>Master Students</h3>
+<div class="people-grid">
+  
+  <div class="person-card">
+    <div class="person-name">
+      <a href="https://henryyang-1.github.io/" target="_blank">Hanlin Yang (2024.9-)</a>
+    </div>
+    <div class="person-desc">
+      Research interests: Intelligent transportation infrastructure and road maintenance decision-making.
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-name">Jun Wan (2025.9-)</div>
+    <div class="person-desc">
+      Research interests: Traffic incident detection and road maintenance decision-making.
+    </div>
+  </div>
+
+</div>
+<h3>Undergraduate Students</h3>
+<div class="people-grid">
+  
+  <div class="person-card">
+    <div class="person-name">Enze Wang (2022.9-)</div>
+    <div class="person-desc">
+      Research interests: Automated road infrastructure inspection and maintenance augmented by LLM and embodied AI.
+    </div>
+  </div>
+
+  <div class="person-card">
+    <div class="person-name">Jingtai Luo (2022.9-)</div>
+    <div class="person-desc">
+      Research interests: AI-supported intelligent infrastructure and pavement defect detection algorithms.
+    </div>
+  </div>
+
+</div>
+<h3>Visiting Students</h3>
+<div class="people-grid">
+   <div class="person-card hiring-card" style="border-color: #aaa; background: #f9f9f9;">
+    <div class="hiring-text" style="color: #666;">
+       Open for Visiting Students
+    </div>
+  </div>
+</div>
+
+
+<div id="newsModal" class="news-modal-overlay">
+  <div class="news-modal-content">
+    <span class="news-close-btn">&times;</span>
+    <div id="modalBody">
+      </div>
+  </div>
+</div>
+
+<script>
+  // Get elements
+  var modal = document.getElementById("newsModal");
+  var modalBody = document.getElementById("modalBody");
+  var closeBtn = document.getElementsByClassName("news-close-btn")[0];
+  var cards = document.querySelectorAll(".news-card");
+
+  // Add click event to each card
+  cards.forEach(function(card) {
+    card.addEventListener("click", function() {
+      // 1. Get HTML content of the currently clicked card
+      var content = this.innerHTML;
+      
+      // 2. Inject content into the modal
+      modalBody.innerHTML = content;
+      
+      // 3. Display the modal
+      modal.style.display = "flex";
+      
+      // 4. Lock background scrolling (optional)
+      document.body.style.overflow = "hidden";
+    });
+  });
+
+  // Close function: click close button
+  closeBtn.onclick = function() {
+    modal.style.display = "none";
+    document.body.style.overflow = "auto"; // Restore scrolling
+  }
+
+  // Close function: click blank area outside the modal
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+      document.body.style.overflow = "auto"; // Restore scrolling
+    }
+  }
+</script>
