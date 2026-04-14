@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Zhao Cong - homepage"
-description              : "赵聪老师的个人主页，展示了他的教育背景、专业经历、项目、新闻、发表论文、专利、荣誉奖项以及合作人员/团队等信息。"
+description              : "Associate Professor, Department ofIntegrated Traffic Information and ControlEngineering
+                            STEP课题组"
 repository               : "ranutdog/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 webrick:
