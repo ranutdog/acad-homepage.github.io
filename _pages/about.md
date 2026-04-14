@@ -70,14 +70,37 @@ redirect_from:
 
 <span class='anchor' id='publications'></span>
 ## 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/paper_01.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/paper_11.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-停车供需的时空失衡会导致传统车辆产生不必要的路侧停车巡游行为。自动驾驶车辆（AVs）可自主调整行驶路线，以缓解出行目的地停车资源紧张的问题。然而，若闲置自动驾驶车辆的空驶行程分配不合理，仍可能加剧交通拥堵与停车供需失衡。为此，本文提出一种集中式停车调度方法，以优化自动驾驶车辆的空驶调配策略，并为其提供区域级路径引导。本文采用宏观基本图刻画拥堵多区域路网中交通状态、停车巡游行为及自动驾驶车辆调度策略的演化规律；提出模型预测控制方法，优化自动驾驶车辆的控制输入参数。基于四区域路网的数值实验结果表明：所提停车调度策略与区域路径引导方法能有效缓解严重的停车巡游交通问题；将二者结合，可通过调控路网至非饱和状态，实现最优控制效果。在含测量误差与合规率预测偏差的仿真场景下，对所提方案的性能进行验证，结果表明：即便在自动驾驶车辆渗透率较低或车辆对停车调度、路径引导的合规率较低的情况下，该方案仍能显著降低车辆总行驶时间。
+根据基本科学指标库ESI（Essential Science Indicators）的最新统计数据，课题组赵聪副教授为通讯作者，同济大学道路与交通工程教育部重点实验室为通讯作者完成单位，发表在土木与地下工程领域顶级国际期刊Tunnelling and Underground Space Technology（中科院一区，Top期刊，影响因子为7.4）的论文“Understanding traffic bottlenecks of long freeway tunnels based on a novel location-dependent lighting-related car-following model”（2023年，136卷）入选工程（Engineering）领域ESI全球TOP 1.0%高被引论文。
 
-[Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016j.trc.2021.103176)
+面向白天长距离高速公路隧道的交通瓶颈问题，该研究构建了融合位置相关光照期望速度的智能驾驶员模型。该模型量化了洞口光照过渡的视觉适应及内部低照度环境对期望速度的影响，揭示了位置异质性光照条件在车队跟驰行为中的演化规律。研究发现，视觉适应易引发交通流的周期性振荡。在强日光下，自适应照明侧重提升交通效率，而入口遮阳棚更优于平滑交通振荡。高密度交通流验证表明，自适应照明策略将入口平均旅行速度由57.74 km/h提升至68.11 km/h，遮阳棚策略则将旅行速度标准差由11.772 km/h降至1.491 km/h。该研究以最小化交通振荡为目标，提出了适应多级日光水平的动态照明策略，为隧道防拥堵控制与照明优化提供了重要的理论依据。
 
-**Zhao Cong**, Liao Feixiong, Li X, Du Y
+ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI Top 1.0 %高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
+
+[Understanding traffic bottlenecks of long freeway tunnels based on a novel location-dependent lighting-related car-following model](https://doi.org/10.1016j.tust.2023.105098)
+
+Yu Shanchuan, **Zhao Cong**, Song Lang, Li Yishun, Du Yuchuan
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/paper_03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+根据基本科学指标库ESI（Essential Science Indicators）的最新统计数据，以课题组蒋盛川副研究员为第一作者，赵聪副教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在交通运输领域国际知名SCI期刊Journal of Advanced Transportation的论文“A Practical and Economical Ultra-wideband Base Station Placement Approach for Indoor Autonomous Driving Systems”（2022年，2022卷）入选工程（Engineering）领域ESI全球TOP 1.0%高被引论文和ESI全球TOP 0.1%热点论文。
+
+该研究面向自动代客泊车的室内高精度定位需求，针对地下停车场复杂建筑环境下UWB（超宽带）基站布局面临的精度与成本双重挑战，创新性地提出了一种实用且经济的三阶段基站规划框架。该方法涵盖了确定部署策略与布局参数、综合调整以及方案验证三个核心阶段。基于同济大学地下停车场的实地测试结果表明，经过该方法优化后，定位基站总数由原方案的41个缩减至30个，有效降低了27%的硬件部署成本；同时，93.75%的测试点定位误差标准差控制在5厘米以内。研究成果有效满足了自动代客泊车的高精度要求，为室内自动驾驶系统低成本定位网络建设提供了可靠的新思路，具有广阔的工程应用前景。
+
+ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
+
+[A Practical and Economical Ultra-wideband Base Station Placement Approach for Indoor Autonomous Driving Systems](https://doi.org/10.1155/2022/3815306)
+
+ Jiang Shengchuan, **Zhao Cong**, Zhu Yifan, Wang Chenwei, Du Yuchuan
+</div>
+</div>
+
 </div>
 </div>
 
@@ -96,20 +119,14 @@ Du Yuchuan, Qin Bohao, **Zhao Cong**, Zhu Yifan, Cao Jing, Ji Yuxiong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/paper_03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/paper_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-根据基本科学指标库ESI（Essential Science Indicators）的最新统计数据，以课题组蒋盛川副研究员为第一作者，赵聪副教授为通讯作者，同济大学道路与交通工程教育部重点实验室为第一完成单位，发表在交通运输领域国际知名SCI期刊Journal of Advanced Transportation的论文“A Practical and Economical Ultra-wideband Base Station Placement Approach for Indoor Autonomous Driving Systems”（2022年，2022卷）入选工程（Engineering）领域ESI全球TOP 1.0%高被引论文和ESI全球TOP 0.1%热点论文。
+停车供需的时空失衡会导致传统车辆产生不必要的路侧停车巡游行为。自动驾驶车辆（AVs）可自主调整行驶路线，以缓解出行目的地停车资源紧张的问题。然而，若闲置自动驾驶车辆的空驶行程分配不合理，仍可能加剧交通拥堵与停车供需失衡。为此，本文提出一种集中式停车调度方法，以优化自动驾驶车辆的空驶调配策略，并为其提供区域级路径引导。本文采用宏观基本图刻画拥堵多区域路网中交通状态、停车巡游行为及自动驾驶车辆调度策略的演化规律；提出模型预测控制方法，优化自动驾驶车辆的控制输入参数。基于四区域路网的数值实验结果表明：所提停车调度策略与区域路径引导方法能有效缓解严重的停车巡游交通问题；将二者结合，可通过调控路网至非饱和状态，实现最优控制效果。在含测量误差与合规率预测偏差的仿真场景下，对所提方案的性能进行验证，结果表明：即便在自动驾驶车辆渗透率较低或车辆对停车调度、路径引导的合规率较低的情况下，该方案仍能显著降低车辆总行驶时间。
 
-该研究面向自动代客泊车的室内高精度定位需求，针对地下停车场复杂建筑环境下UWB（超宽带）基站布局面临的精度与成本双重挑战，创新性地提出了一种实用且经济的三阶段基站规划框架。该方法涵盖了确定部署策略与布局参数、综合调整以及方案验证三个核心阶段。基于同济大学地下停车场的实地测试结果表明，经过该方法优化后，定位基站总数由原方案的41个缩减至30个，有效降低了27%的硬件部署成本；同时，93.75%的测试点定位误差标准差控制在5厘米以内。研究成果有效满足了自动代客泊车的高精度要求，为室内自动驾驶系统低成本定位网络建设提供了可靠的新思路，具有广阔的工程应用前景。
+[Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016j.trc.2021.103176)
 
-ESI是由世界著名的学术信息出版机构美国科技信息所（ISI）推出的衡量科学研究绩效、跟踪科学发展趋势的基本分析评价工具，是基于汤森路透Web of Science（SCIE/SSCI）所收录的全球11000多种学术期刊的数千万条文献记录而建立的计量分析数据库。ESI对全球所有的SCIE、SSCI库中2005年以来的论文数据进行统计，按被引频次的高低确定出衡量研究绩效的阈值；ESI高被引论文已成为当前衡量和评价国家/地区科研水平、机构学术声誉、学科水平、科学家学术影响力以及期刊学术水平的一个重要指标。ESI高被引论文是指同年度同学科领域中被引频次排名前1.0%以内的文章。
-
-[A Practical and Economical Ultra-wideband Base Station Placement Approach for Indoor Autonomous Driving Systems](https://doi.org/10.1155/2022/3815306)
-
- Jiang Shengchuan, **Zhao Cong**, Zhu Yifan, Wang Chenwei, Du Yuchuan
-</div>
-</div>
+**Zhao Cong**, Liao Feixiong, Li X, Du Y
 
 <!-- 7. Patents 锚点 + 内容 -->
 <span class='anchor' id='patents'></span>
