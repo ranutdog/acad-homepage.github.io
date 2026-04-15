@@ -189,7 +189,7 @@ redirect_from:
 <span class='anchor' id='publications'></span>
 
 <!-- Paper 35：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_35.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_35.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -201,7 +201,7 @@ Zhao Zhiguo, **Zhao Cong**, Chen Kun, Ji Yuxiong, Du Yuchuan
 </div>
 
 <!-- Paper 34：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_34.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_34.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportmetrica A: Transport Science
 
@@ -213,7 +213,7 @@ Song Andi, **Zhao Cong**, Du Yuchuan, Shi Yupeng
 </div>
 
 <!-- Paper 33：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_33.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_33.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Expert Systems with Applications
 
@@ -225,7 +225,7 @@ Expert Systems with Applications
 </div>
 
 <!-- Paper 32：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_32.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_32.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Tunnelling and Underground Space Technology
 
@@ -237,7 +237,7 @@ Wang Shiyu, **Zhao Cong**, Du Yuchuan, Jiang Shengchuan
 </div>
 
 <!-- Paper 31：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_31.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_31.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Knowledge-Based Systems
 
@@ -249,7 +249,7 @@ Knowledge-Based Systems
 </div>
 
 <!-- Paper 30：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_30.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_30.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International journal of environmental research and public health
 
@@ -261,7 +261,7 @@ Lei Cailin, **Zhao Cong**, Du Yuchuan, Wang Shiyu
 </div>
 
 <!-- Paper 29：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_29.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_29.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -273,7 +273,7 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 
 <!-- Paper 28：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_28.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_28.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies
 
@@ -285,7 +285,7 @@ Du Yuchuan, **Cong Zhao**, Liao Feixiong, Chen Jing
 </div>
 
 <!-- Paper 27：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_27.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_27.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 China Journal of Highway and Transport
 
@@ -297,7 +297,7 @@ China Journal of Highway and Transport
 </div>
 
 <!-- Paper 26：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IET Intelligent Transport Systems
 
@@ -309,7 +309,7 @@ IET Intelligent Transport Systems
 </div>
 
 <!-- Paper 25：2025 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='{{ site.baseurl }}/images/paper_25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -327,7 +327,7 @@ IEEE Transactions on Intelligent Transportation Systems
 
   <!-- Collapsible content: past publications -->
 <!-- Paper 24：2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='{{ site.baseurl }}/images/paper_24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Journal of Advanced Transportation
 
@@ -339,7 +339,7 @@ Jiang Shengchuan, **Zhao Cong**, Du Yuchuan, Wang Shiyu
 </div>
 
 <!-- Paper 23：2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='{{ site.baseurl }}/images/paper_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Computers and Electrical Engineering
 
@@ -351,7 +351,7 @@ Ding Delong, **Zhao Cong**, Du Yuchuan, Lei Cailin
 </div>
 
 <!-- Paper 22：2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='{{ site.baseurl }}/images/paper_22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International Journal of Transportation Science and Technology
 
@@ -363,7 +363,7 @@ Song Andi, **Zhao Cong**, Du Yuchuan, Shi Yupeng
 </div>
 
 <!-- Paper 21：2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='{{ site.baseurl }}/images/paper_21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -375,7 +375,7 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 
 <!-- Paper 20：2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='{{ site.baseurl }}/images/paper_20.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research Part B: Methodological
 
@@ -387,7 +387,7 @@ Du Yuchuan, **Cong Zhao**, Liao Feixiong, Chen Jing
 </div>
 
 <!-- Paper 19：2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='{{ site.baseurl }}/images/paper_19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 China Journal of Highway and Transport
 
@@ -399,7 +399,7 @@ China Journal of Highway and Transport
 </div>
 
 <!-- Paper 18：2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_18.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='{{ site.baseurl }}/images/paper_18.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -411,7 +411,7 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 
 <!-- Paper 17：2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_17.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='{{ site.baseurl }}/images/paper_17.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IET Intelligent Transport Systems
 
@@ -423,7 +423,7 @@ Shi Yupeng, **Zhao Cong**, Du Yuchuan, Song Andi
 </div>
 
 <!-- Paper 16：2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_16.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='{{ site.baseurl }}/images/paper_16.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Computer‐Aided Civil and Infrastructure Engineering
 
@@ -435,7 +435,7 @@ Lei Cailin, **Zhao Cong**, Du Yuchuan, Ding Delong
 </div>
 
 <!-- Paper 15：2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_15.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='{{ site.baseurl }}/images/paper_15.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 International journal of environmental research and public health
 
@@ -447,7 +447,7 @@ International journal of environmental research and public health
 </div>
 
 <!-- Paper 14：2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_14.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='{{ site.baseurl }}/images/paper_14.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -459,7 +459,7 @@ Du Yuchuan, **Cong Zhao**, Ji Yuxiong, Zhu Yifan
 </div>
 
 <!-- Paper 13：2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_13.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='{{ site.baseurl }}/images/paper_13.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies
 
@@ -471,7 +471,7 @@ Transportation Research Part C: Emerging Technologies
 </div>
 
 <!-- Paper 12：2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_12.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='{{ site.baseurl }}/images/paper_12.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 China Journal of Highway and Transport
 
@@ -483,7 +483,7 @@ China Journal of Highway and Transport
 </div>
 
 <!-- Paper 11：2023 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_11.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='{{ site.baseurl }}/images/paper_11.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IET Intelligent Transport Systems
 
@@ -495,7 +495,7 @@ IET Intelligent Transport Systems
 </div>
 
 <!-- Paper 10：2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_10.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='{{ site.baseurl }}/images/paper_10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -507,7 +507,7 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 
 <!-- Paper 9：2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_09.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='{{ site.baseurl }}/images/paper_09.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -519,7 +519,7 @@ Du Yuchuan, **Zhao Cong**, Ji Yuxiong
 </div>
 
 <!-- Paper 8：2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_08.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='{{ site.baseurl }}/images/paper_08.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -531,7 +531,7 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 
 <!-- Paper 7：2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_07.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='{{ site.baseurl }}/images/paper_07.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -543,7 +543,7 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 
 <!-- Paper 6：2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_06.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='{{ site.baseurl }}/images/paper_06.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -555,7 +555,7 @@ IEEE Transactions on Intelligent Transportation Systems
 </div>
 
 <!-- Paper 5：2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_05.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='{{ site.baseurl }}/images/paper_05.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research Part C: Emerging Technologies
 
@@ -567,7 +567,7 @@ Du Yuchuan, Chen Jing, **Zhao Cong**, Liu Chenglong, Liao Feixiong, Chan Ching Y
 </div>
 
 <!-- Paper 4：2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_04.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='{{ site.baseurl }}/images/paper_04.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Journal of Transportation Engineering, Part A: Systems
 
@@ -579,7 +579,7 @@ Journal of Transportation Engineering, Part A: Systems
 </div>
 
 <!-- Paper 3：2022 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_03.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='{{ site.baseurl }}/images/paper_03.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 IEEE Transactions on Intelligent Transportation Systems
 
@@ -591,7 +591,7 @@ Du Yuchuan, Qin Bohao, **Zhao Cong**, Zhu Yifan, Cao Jing, Ji Yuxiong
 </div>
 
 <!-- Paper 2：2021 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_02.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='{{ site.baseurl }}/images/paper_02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 China Journal of Highway and Transport
 
@@ -603,7 +603,7 @@ China Journal of Highway and Transport
 </div>
 
 <!-- Paper 1：2021 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_01.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='{{ site.baseurl }}/images/paper_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Transportation Research. Part C: Emerging Technologies
 
