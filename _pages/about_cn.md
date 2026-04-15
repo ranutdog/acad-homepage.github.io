@@ -171,6 +171,7 @@ redirect_from:
 </style>
 
 <div class="news-grid">
+
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
@@ -181,7 +182,34 @@ redirect_from:
       <p>项目瞄准"停车难"痛点，以车路云一体化破解自主泊车落地瓶颈。</p>
       <p>此次入选标志着其创新能力和工程转化成果获高度认可。</p>
     </div>
-  </div>
+</div>
+
+<!-- 新闻1：青年优秀人才培养行动计划 -->
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">赵聪入选同济大学青年优秀人才培养行动计划</span>
+    </div>
+    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
+      <p>赵聪副教授凭借在智能交通与车路协同领域的突出研究成果，成功入选同济大学青年优秀人才培养行动计划。</p>
+      <p>该计划旨在支持具有创新潜力的青年学者开展高水平科学研究与学术交叉探索。</p>
+      <p>此次入选体现了学院与学校对其科研能力与发展潜力的高度认可。</p>
+    </div>
+</div>
+
+<!-- 新闻2：青年教师教学竞赛一等奖 -->
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
+      <span style="vertical-align: middle;">赵聪荣获2025年同济大学青年教师教学竞赛一等奖</span>
+    </div>
+    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
+      <p>在2025年同济大学青年教师教学竞赛中，赵聪副教授表现优异，荣获一等奖。</p>
+      <p>其授课内容严谨生动，教学方法创新高效，获得评审专家与学生的一致好评。</p>
+      <p>此项荣誉是对其教学能力、课程设计与课堂实践的充分肯定。</p>
+    </div>
+</div>
+
 </div>
 
 <!-- 6. Publications 锚点 + 内容 -->

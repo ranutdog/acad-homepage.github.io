@@ -171,6 +171,7 @@ He teaches interdisciplinary courses such as Traffic Data Analysis, Transportati
 </style>
 
 <div class="news-grid">
+
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">Good News</span>
@@ -181,7 +182,34 @@ He teaches interdisciplinary courses such as Traffic Data Analysis, Transportati
       <p>Targeting the pain point of "difficult parking", the project addresses the bottlenecks in the implementation of autonomous parking through the vehicle-road-cloud integration.</p>
       <p>This selection signifies high recognition of his innovative capabilities and solid achievements in engineering transformation.</p>
     </div>
-  </div>
+</div>
+
+<!-- News 1: Tongji University Young Talents Program -->
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">Good News</span>
+      <span style="vertical-align: middle;">Cong Zhao Selected into Tongji University Young Talents Program</span>
+    </div>
+    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
+      <p>Associate Professor Cong Zhao was selected into the Tongji University Young Talents Program for his outstanding research in intelligent transportation and vehicle-road cooperation.</p>
+      <p>This program supports young scholars with high innovation potential to conduct cutting-edge research and interdisciplinary exploration.</p>
+      <p>The selection reflects strong recognition of his academic potential and research capabilities from the university.</p>
+    </div>
+</div>
+
+<!-- News 2: First Prize in Teaching Competition -->
+<div class="news-card">
+    <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
+      <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">Good News</span>
+      <span style="vertical-align: middle;">Cong Zhao Won First Prize in Tongji University Young Teachers Teaching Competition</span>
+    </div>
+    <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
+      <p>In the 2025 Tongji University Young Teachers Teaching Competition, Associate Professor Cong Zhao won the First Prize with excellent performance.</p>
+      <p>His rigorous, vivid, and innovative teaching style was highly praised by judges and students.</p>
+      <p>This honor fully affirms his teaching skills, curriculum design, and classroom practice.</p>
+    </div>
+</div>
+
 </div>
 
 <!-- 6. Publications anchor + content -->
