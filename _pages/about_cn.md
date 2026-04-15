@@ -175,7 +175,7 @@ redirect_from:
 <div class="news-card">
     <div style="font-size: 1.2em; font-weight: bold; color: #333; margin-bottom: 10px;">
       <span style="background-color: #d9534f; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.8em; vertical-align: middle; margin-right: 8px;">喜讯</span>
-      <span style="vertical-align: middle;">赵聪入选上海青年科技启明星计划（A类）</span>
+      <span style="vertical-align: middle;">赵聪入选上海科技启明星计划（A类）</span>
     </div>
     <div style="color: #555; font-size: 0.95em; line-height: 1.6;">
       <p>赵聪副教授申报的《车路云一体化架构下自主泊车车车融合增强与运行优化研究》成功入选2024年度上海市青年科技启明星计划（A类）。</p>
