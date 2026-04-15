@@ -188,428 +188,428 @@ redirect_from:
 # 📝 发表论文 
 <span class='anchor' id='publications'></span>
 
-<!-- 论文35：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_35.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 35：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_35.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-🔥`新增！`[网联自动驾驶车辆交叉口协同控制策略](10.1109/tits.2025.3625597）
+🔥`New！`[A cooperative control strategy for connected and automated vehicles at intersections](10.1109/tits.2025.3625597）
 
-赵国志, **赵聪**, 陈坤, 吉雨雄, 杜豫川
+Zhao Zhiguo, **Zhao Cong**, Chen Kun, Ji Yuxiong, Du Yuchuan
 
 </div>
 </div>
 
-<!-- 论文34：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_34.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 34：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_34.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Transportmetrica A: 交通科学
+Transportmetrica A: Transport Science
 
-🔥`新增！`[基于大数据的城市公共交通需求预测模型](https://doi.org/10.1080/23249935.2025.2412345)
+🔥`New！`[A demand forecasting model for urban public transportation based on big data](https://doi.org/10.1080/23249935.2025.2412345)
 
-宋安迪, **赵聪**, 杜豫川, 石宇鹏
+Song Andi, **Zhao Cong**, Du Yuchuan, Shi Yupeng
 
 </div>
 </div>
 
-<!-- 论文33：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_33.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 33：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_33.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-专家系统应用
+Expert Systems with Applications
 
-🔥`新增！`[基于机器学习的路面养护决策专家系统](https://doi.org/10.1016/j.eswa.2025.122345)
+🔥`New！`[An expert system for pavement maintenance decision-making based on machine learning](https://doi.org/10.1016/j.eswa.2025.122345)
 
-**赵聪**, 杜豫川, 陈坤, 丁德龙
+**Zhao Cong**, Du Yuchuan, Chen Kun, Ding Delong
 
 </div>
 </div>
 
-<!-- 论文32：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_32.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 32：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_32.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-隧道与地下空间技术
+Tunnelling and Underground Space Technology
 
-🔥`新增！`[地下交通基础设施养护风险评估模型](https://doi.org/10.1016/j.tust.2025.105901)
+🔥`New！`[A risk assessment model for underground transportation infrastructure maintenance](https://doi.org/10.1016/j.tust.2025.105901)
 
-王世宇, **赵聪**, 杜豫川, 姜圣川
+Wang Shiyu, **Zhao Cong**, Du Yuchuan, Jiang Shengchuan
 
 </div>
 </div>
 
-<!-- 论文31：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_31.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 31：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_31.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-知识系统期刊
+Knowledge-Based Systems
 
-🔥`新增！`[基于知识图谱的智能交通决策支持方法](https://doi.org/10.1016/j.knosys.2025.111234)
+🔥`New！`[A knowledge graph-based approach for intelligent transportation decision support](https://doi.org/10.1016/j.knosys.2025.111234)
 
-**赵聪**, 杜豫川, 丁德龙, 雷彩琳
+**Zhao Cong**, Du Yuchuan, Ding Delong, Lei Cailin
 
 </div>
 </div>
 
-<!-- 论文30：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_30.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 30：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_30.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-国际环境研究与公共卫生期刊
+International journal of environmental research and public health
 
-🔥`新增！`[网联自动驾驶车辆对城市公共交通的影响研究](https://doi.org/10.3390/ijerph22086789)
+🔥`New！`[The influence of connected and automated vehicles on urban public transportation](https://doi.org/10.3390/ijerph22086789)
 
-雷彩琳, **赵聪**, 杜豫川, 王世宇
+Lei Cailin, **Zhao Cong**, Du Yuchuan, Wang Shiyu
 
 </div>
 </div>
 
-<!-- 论文29：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_29.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 29：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_29.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-🔥`新增！`[复杂环境下自动驾驶车辆多传感器融合定位方法](https://doi.org/10.1109/tits.2025.3434567)
+🔥`New！`[A multi-sensor fusion method for autonomous vehicle localization in complex environments](https://doi.org/10.1109/tits.2025.3434567)
 
-**赵聪**, 杜豫川, 朱一帆, 曹静
+**Zhao Cong**, Du Yuchuan, Zhu Yifan, Cao Jing
 
 </div>
 </div>
 
-<!-- 论文28：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_28.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 28：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_28.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-交通研究C辑：新兴技术
+Transportation Research Part C: Emerging Technologies
 
-🔥`新增！`[基于强化学习的智慧城市自适应交通信号控制方法](https://doi.org/10.1016/j.trc.2025.105678)
+🔥`New！`[A reinforcement learning-based approach for adaptive traffic signal control in smart cities](https://doi.org/10.1016/j.trc.2025.105678)
 
-杜豫川, **赵聪**, 廖飞雄, 陈静
+Du Yuchuan, **Cong Zhao**, Liao Feixiong, Chen Jing
 
 </div>
 </div>
 
-<!-- 论文27：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_27.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 27：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_27.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-中国公路学报
+China Journal of Highway and Transport
 
-🔥`新增！`[基于车路协同的城市交通信号协同控制模型](https://doi.org/10.37155/2096-4444-0601-18)
+🔥`New！`[A Collaborative Control Model for Urban Traffic Signals Based on Vehicle-Infrastructure Integration](https://doi.org/10.37155/2096-4444-0601-18)
 
-**赵聪**, 杜豫川, 姜圣川, 陈坤
+**Zhao Cong**, Du Yuchuan, Jiang Shengchuan, Chen Kun
 
 </div>
 </div>
 
-<!-- 论文26：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_26.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 26：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IET 智能交通系统
+IET Intelligent Transport Systems
 
-🔥`新增！`[电动自动驾驶车辆节能驾驶策略](https://doi.org/10.1049/itr2.12678)
+🔥`New！`[An energy-efficient driving strategy for electric autonomous vehicles](https://doi.org/10.1049/itr2.12678)
 
-**赵聪**, 杜豫川, 石宇鹏, 宋安迪
+**Zhao Cong**, Du Yuchuan, Shi Yupeng, Song Andi
 
 </div>
 </div>
 
-<!-- 论文25：2025年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_25.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 25：2025 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025</div><img src='/images/paper_25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-🔥`新增！`[基于数字孪生的城市智慧交通管理框架](https://doi.org/10.1109/tits.2025.3412345)
+🔥`New！`[A digital twin-based framework for smart traffic management in urban areas](https://doi.org/10.1109/tits.2025.3412345)
 
-**赵聪**, 杜豫川, 吉雨雄, 陈坤
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong, Chen Kun
 
 </div>
 </div>
 
-<!-- 外层：折叠容器 -->
+<!-- Outer layer: collapsible container -->
 <details>
-  <!-- 折叠栏的标题（可点击） -->
-  <summary>👉 点击查看往期论文</summary>
+  <!-- Collapsible bar title (clickable) -->
+  <summary>👉 Click to view Past Publications</summary>
 
-  <!-- 折叠里面的内容：往期论文 -->
-<!-- 论文24：2024年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_24.png' alt="示意图" width="100%"></div></div>
+  <!-- Collapsible content: past publications -->
+<!-- Paper 24：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-先进交通期刊
+Journal of Advanced Transportation
 
-[考虑实时交通状况的网联车辆路径规划算法](https://doi.org/10.1155/2024/6789012)
+[A route planning algorithm for connected vehicles considering real-time traffic conditions](https://doi.org/10.1155/2024/6789012)
 
-姜圣川, **赵聪**, 杜豫川, 王世宇
+Jiang Shengchuan, **Zhao Cong**, Du Yuchuan, Wang Shiyu
 
 </div>
 </div>
 
-<!-- 论文23：2024年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_23.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 23：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-计算机与电气工程
+Computers and Electrical Engineering
 
-[基于机器学习的路面性能预测方法](https://doi.org/10.1016/j.compeleceng.2024.108765)
+[A machine learning-based approach for predicting pavement performance](https://doi.org/10.1016/j.compeleceng.2024.108765)
 
-丁德龙, **赵聪**, 杜豫川, 雷彩琳
+Ding Delong, **Zhao Cong**, Du Yuchuan, Lei Cailin
 
 </div>
 </div>
 
-<!-- 论文22：2024年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_22.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 22：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-国际交通科学与技术期刊
+International Journal of Transportation Science and Technology
 
-[车道管理策略对混合交通流效率的影响研究](https://doi.org/10.1016/j.ijtst.2024.03.008)
+[The effect of lane management strategies on mixed traffic flow efficiency](https://doi.org/10.1016/j.ijtst.2024.03.008)
 
-宋安迪, **赵聪**, 杜豫川, 石宇鹏
+Song Andi, **Zhao Cong**, Du Yuchuan, Shi Yupeng
 
 </div>
 </div>
 
-<!-- 论文21：2024年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_21.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 21：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-[高速公路网联自动驾驶车辆协同编队控制方法](https://doi.org/10.1109/tits.2024.3389012)
+[A cooperative platooning control method for connected and automated vehicles on highways](https://doi.org/10.1109/tits.2024.3389012)
 
-**赵聪**, 杜豫川, 吉雨雄, 朱一帆
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong, Zhu Yifan
 
 </div>
 </div>
 
-<!-- 论文20：2024年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_20.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 20：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_20.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-交通研究B辑：方法论
+Transportation Research Part B: Methodological
 
-[网联自动驾驶车辆网络随机用户均衡模型](https://doi.org/10.1016/j.trb.2024.02.005)
+[A stochastic user equilibrium model for connected and automated vehicle networks](https://doi.org/10.1016/j.trb.2024.02.005)
 
-杜豫川, **赵聪**, 廖飞雄, 陈静
+Du Yuchuan, **Cong Zhao**, Liao Feixiong, Chen Jing
 
 </div>
 </div>
 
-<!-- 论文19：2024年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_19.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 19：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-中国公路学报
+China Journal of Highway and Transport
 
-[基于深度学习的高速公路异常事件检测模型](https://doi.org/10.37155/2096-4444-0502-15)
+[An Abnormal Event Detection Model for Highways Based on Deep Learning](https://doi.org/10.37155/2096-4444-0502-15)
 
-**赵聪**, 杜豫川, 陈坤, 姜圣川
+**Zhao Cong**, Du Yuchuan, Chen Kun, Jiang Shengchuan
 
 </div>
 </div>
 
-<!-- 论文18：2024年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_18.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 18：2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='/images/paper_18.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-[基于深度强化学习的自动驾驶车辆自适应巡航控制策略](https://doi.org/10.1109/tits.2024.3367890)
+[An adaptive cruise control strategy for autonomous vehicles based on deep reinforcement learning](https://doi.org/10.1109/tits.2024.3367890)
 
-**赵聪**, 杜豫川, 陈坤, 姜圣川
+**Zhao Cong**, Du Yuchuan, Chen Kun, Jiang Shengchuan
 
 </div>
 </div>
 
-<!-- 论文17：2023年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_17.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 17：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_17.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IET 智能交通系统
+IET Intelligent Transport Systems
 
-[考虑驾驶员舒适性的施工区自动驾驶车辆速度引导模型](https://doi.org/10.1049/itr2.12456)
+[A speed guidance model for autonomous vehicles in work zones considering driver comfort](https://doi.org/10.1049/itr2.12456)
 
-石宇鹏, **赵聪**, 杜豫川, 宋安迪
+Shi Yupeng, **Zhao Cong**, Du Yuchuan, Song Andi
 
 </div>
 </div>
 
-<!-- 论文16：2023年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_16.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 16：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_16.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-计算机辅助土木工程与基础设施工程
+Computer‐Aided Civil and Infrastructure Engineering
 
-[基于BIM的智慧高速公路养护数字孪生框架](https://doi.org/10.1111/mice.12890)
+[A BIM-based digital twin framework for smart highway maintenance](https://doi.org/10.1111/mice.12890)
 
-雷彩琳, **赵聪**, 杜豫川, 丁德龙
+Lei Cailin, **Zhao Cong**, Du Yuchuan, Ding Delong
 
 </div>
 </div>
 
-<!-- 论文15：2023年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_15.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 15：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_15.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-国际环境研究与公共卫生期刊
+International journal of environmental research and public health
 
-[网联自动驾驶车辆对城市交通安全与空气质量的影响](https://doi.org/10.3390/ijerph20054231)
+[The impact of connected and automated vehicles on urban traffic safety and air quality](https://doi.org/10.3390/ijerph20054231)
 
-**赵聪**, 杜豫川, 雷彩琳, 王世宇
+**Zhao Cong**, Du Yuchuan, Lei Cailin, Wang Shiyu
 
 </div>
 </div>
 
-<!-- 论文14：2023年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_14.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 14：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_14.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-[基于多智能体强化学习的交通信号控制与路径诱导集成方法](https://doi.org/10.1109/tits.2023.3245678)
+[A multi-agent reinforcement learning approach for integrated traffic signal control and route guidance](https://doi.org/10.1109/tits.2023.3245678)
 
-杜豫川, **赵聪**, 吉雨雄, 朱一帆
+Du Yuchuan, **Cong Zhao**, Ji Yuxiong, Zhu Yifan
 
 </div>
 </div>
 
-<!-- 论文13：2023年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_13.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 13：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_13.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-交通研究C辑：新兴技术
+Transportation Research Part C: Emerging Technologies
 
-[考虑行程时间可靠性的网联自动驾驶车辆动态交通分配模型](https://doi.org/10.1016/j.trc.2023.104234)
+[A dynamic traffic assignment model for connected and automated vehicles considering travel time reliability](https://doi.org/10.1016/j.trc.2023.104234)
 
-**赵聪**, 杜豫川, 廖飞雄, 陈静
+**Cong Zhao**, Du Yuchuan, Liao Feixiong, Chen Jing
 
 </div>
 </div>
 
-<!-- 论文12：2023年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_12.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 12：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_12.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-中国公路学报
+China Journal of Highway and Transport
 
-[基于车路协同的混合交通流车道动态分配模型](https://doi.org/10.37155/2096-4444-0405-12)
+[A Dynamic Lane Allocation Model for Mixed Traffic Flow Based on Vehicle-Infrastructure Integration](https://doi.org/10.37155/2096-4444-0405-12)
 
-**赵聪**, 杜豫川, 石磊, 宋安迪
+**Zhao Cong**, Du Yuchuan, Shi Lei, Song Andi
 
 </div>
 </div>
 
-<!-- 论文11：2023年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_11.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 11：2023 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='/images/paper_11.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IET 智能交通系统
+IET Intelligent Transport Systems
 
-[考虑交通效率与安全的网联自动驾驶车辆匝道协同换道策略](https://doi.org/10.1049/itr2.12345)
+[A cooperative lane-changing strategy for connected and automated vehicles at on-ramps considering traffic efficiency and safety](https://doi.org/10.1049/itr2.12345)
 
-**赵聪**, 杜豫川, 石宇鹏, 宋安迪
+**Zhao Cong**, Du Yuchuan, Shi Yupeng, Song Andi
 
 </div>
 </div>
 
-<!-- 论文10：2022年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_10.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 10：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_10.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-[网联车辆环境下基于深度强化学习的自适应交通信号控制](https://doi.org/10.1109/tits.2022.3191057)
+[Adaptive traffic signal control using deep reinforcement learning in connected vehicle environment](https://doi.org/10.1109/tits.2022.3191057)
 
-**赵聪**, 杜豫川, 吉雨雄
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong
 
 </div>
 </div>
 
-<!-- 论文9：2022年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_09.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 9：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_09.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-[基于实时交通数据的深度学习交通事故预测方法](https://doi.org/10.1109/tits.2022.3178921)
+[A deep learning-based approach for traffic accident prediction using real-time traffic data](https://doi.org/10.1109/tits.2022.3178921)
 
-杜豫川, **赵聪**, 吉雨雄
+Du Yuchuan, **Zhao Cong**, Ji Yuxiong
 
 </div>
 </div>
 
-<!-- 论文8：2022年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_08.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 8：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_08.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-[网联自动驾驶车辆与人工驾驶车辆混合交通动态车道管理](https://doi.org/10.1109/tits.2022.3166883)
+[Dynamic lane management for mixed traffic of connected and automated vehicles and human-driven vehicles](https://doi.org/10.1109/tits.2022.3166883)
 
-**赵聪**, 杜豫川, 吉雨雄
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong
 
 </div>
 </div>
 
-<!-- 论文7：2022年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_07.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 7：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_07.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-[网联车辆环境下交通信号控制与路径诱导集成框架](https://doi.org/10.1109/tits.2022.3154689)
+[An integrated framework for traffic signal control and route guidance in connected vehicle environment](https://doi.org/10.1109/tits.2022.3154689)
 
-**赵聪**, 杜豫川, 吉雨雄
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong
 
 </div>
 </div>
 
-<!-- 论文6：2022年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_06.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 6：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_06.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-[路侧异步毫米波雷达-相机传感器融合时空同步新方法](https://doi.org/10.1109/tits.2022.3141843)
+[A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2022.3141843)
 
-**赵聪**, 杜豫川, 吉雨雄
+**Zhao Cong**, Du Yuchuan, Ji Yuxiong
 
 </div>
 </div>
 
-<!-- 论文5：2022年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_05.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 5：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_05.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-交通研究C辑：新兴技术
+Transportation Research Part C: Emerging Technologies
 
-[基于深度强化学习的自动驾驶车辆不平路面舒适节能速度控制](https://doi.org/10.1061/jtepbs.0000640)
+[Comfortable and energy-efficient speed control of autonomous vehicles on rough pavements using deep reinforcement learning](https://doi.org/10.1061/jtepbs.0000640)
 
-杜豫川, 陈静, **赵聪**, 刘成龙, 廖飞雄, 陈建耀
+Du Yuchuan, Chen Jing, **Zhao Cong**, Liu Chenglong, Liao Feixiong, Chan Ching Yao
 
 </div>
 </div>
 
-<!-- 论文4：2022年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_04.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 4：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_04.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-交通工程期刊A辑：系统
+Journal of Transportation Engineering, Part A: Systems
 
-[网联自动驾驶时代从“寻位停车”到“派位停车”的宏观方法](https://doi.org/10.1061/jtepbs.0000640)
+[From Search-for-Parking to Dispatch-for-Parking in an Era of Connected and Automated Vehicles: A Macroscopic Approach](https://doi.org/10.1061/jtepbs.0000640)
 
-**赵聪**, 曹静, 张昕源, 杜豫川
+**Zhao Cong**, Cao Jing, Zhang Xinyuan, Du Yuchuan
 
 </div>
 </div>
 
-<!-- 论文3：2022年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_03.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 3：2022 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='/images/paper_03.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-IEEE 智能交通系统汇刊
+IEEE Transactions on Intelligent Transportation Systems
 
-[路侧异步毫米波雷达-相机传感器融合时空同步新方法](https://doi.org/10.1109/tits.2021.3119079)
+[A novel spatio-temporal synchronization method of roadside asynchronous MMW radar-camera for sensor fusion](https://doi.org/10.1109/tits.2021.3119079)
 
-杜豫川, 秦柏豪, **赵聪**, 朱一帆, 曹静, 吉雨雄
+Du Yuchuan, Qin Bohao, **Zhao Cong**, Zhu Yifan, Cao Jing, Ji Yuxiong
 
 </div>
 </div>
 
-<!-- 论文2：2021年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_02.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 2：2021 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_02.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-中国公路学报
+China Journal of Highway and Transport
 
-[基于多智能体深度强化学习的停车系统智能延时匹配方法](https://doi.org/10.37155/2717-5170-0708-9)
+[An Intelligent Time-Delay Matching Method for Parking Systems Based on Multi-Agent Deep Reinforcement Learning](https://doi.org/10.37155/2717-5170-0708-9)
 
-**赵聪**, 张昕源, 李兴华, 杜豫川
+**Zhao Cong**, Zhang Xinyuan, Li Xinghua, Du Yuchuan
 
 </div>
 </div>
 
-<!-- 论文1：2021年 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_01.png' alt="示意图" width="100%"></div></div>
+<!-- Paper 1：2021 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='/images/paper_01.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-交通研究C辑：新兴技术
+Transportation Research. Part C: Emerging Technologies
 
-[多区域城市路网自动驾驶车辆路侧巡航找泊宏观建模与动态控制](https://doi.org/10.1016/j.trc.2021.103176)
+[Macroscopic modeling and dynamic control of on-street cruising-for-parking of autonomous vehicles in a multi-region urban road network](https://doi.org/10.1016/j.trc.2021.103176)
 
-**赵聪**, 廖飞雄, 李兴华, 杜豫川
+**Zhao C**, Liao Feixiong, Li X, Du Yuchuan
 
 </div>
 </div>

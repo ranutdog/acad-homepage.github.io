@@ -41,7 +41,10 @@
         <div style='display: flex; margin-top: 8px;'><i class="fa fa-fw fa-map-marker" aria-hidden="true" style="margin-top: 4px;"></i><div style='width: 16px; flex-shrink:0;'></div>{{ author.location }}</div>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <div style='display: flex; margin-top: 8px;'>
+        <i class="fa fa-fw fa-university" aria-hidden="true" style="margin-top: 4px; width: 16px; flex-shrink: 0; margin-right: 16px;"></i>
+        {{ author.employer }}
+        </div>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>

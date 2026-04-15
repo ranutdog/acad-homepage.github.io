@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Zhao Cong - homepage"
-description              : "Associate Professor, Department ofIntegrated Traffic Information and ControlEngineering
-                            STEP课题组"
+description              : "Associate Professor, Department ofIntegrated Traffic Information and ControlEngineering,STEP"
 repository               : "ranutdog/acad-homepage.github.io"
 # 新增/修改这两行（适配 GitHub Pages 子路径）
 url: "https://ranutdog.github.io"  # 你的 GitHub 用户名域名
@@ -29,8 +28,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "赵聪"
   avatar           : "/images/profile.png"
-  bio              : "Tongji University
-                      STEP课题组"
+  bio              : "Tongji University"
   location         : "Shanghai, China"
   employer         : "Tongji University"
   pubmed           : 
